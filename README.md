@@ -1,23 +1,23 @@
 # BUSINESS DATA ANALYSIS
 
-## 📌 Project Overview
+** Project Overview**
 This project focuses on finance concepts like savings, investment, and stock market analysis using Excel.
 
-## 🎯 Objectives
+** Objectives**
 - Understand financial planning
 - Analyze investment options
 - Study stock market basics
 
-## 🛠 Tools Used
+ **Tools Used**
 - Microsoft Excel
 
-## 📊 Tasks Completed
+** Tasks Completed**
 - Created savings plan
 - Compared investment options
 - Analyzed stock data
 - Calculated profit and returns
 
-## 📈 Key Insights
+** Key Insights**
 - Investment helps in wealth growth
 - Diversification reduces risk
 - Planning improves financial stability
